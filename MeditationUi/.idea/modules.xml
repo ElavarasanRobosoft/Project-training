@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MeditationUIYouTube.iml" filepath="$PROJECT_DIR$/.idea/modules/MeditationUIYouTube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MeditationUIYouTube.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MeditationUIYouTube.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MeditationUIYouTube.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MeditationUIYouTube.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MeditationUIYouTube.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MeditationUIYouTube.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MeditationUIYouTube.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MeditationUIYouTube.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
